@@ -1,0 +1,15 @@
+{
+  "name": "hage",
+  "version": "1.0.0",
+  "description": "2019/04/20 に開催された第一回 GAS ハンズオンセミナーで作成したコードの例を記載しております。",
+  "main": "01_初めてのコード.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/clasp": "^2.1.0",
+    "jest": "^24.8.0"
+  }
+}
